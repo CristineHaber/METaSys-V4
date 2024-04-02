@@ -1,0 +1,11 @@
+.fc-event {
+    cursor: pointer;
+}
+
+.custom-card {
+    background: linear-gradient(135deg, #636363, #767676);
+}
+
+.custom-card2 {
+    background: linear-gradient(135deg, #0074e4, #00a4e9);
+}
